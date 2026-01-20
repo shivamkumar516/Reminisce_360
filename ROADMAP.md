@@ -16,13 +16,13 @@ To successfully demonstrate Reminisce 360 during the hackathon, our MVP will inc
 ## 🚀 Phase 1: Foundation & Initial Setup (Day 1 - Morning)
 **Goal:** Establish the project's technical base and development environment.
 
--   [ ] **1.1 Environment Setup:** Install Python 3.x, pip, and create a virtual environment.
--   [ ] **1.2 IDE Configuration:** Configure VS Code/PyCharm with relevant Python extensions.
--   [ ] **1.3 Django Project Initialization:**
+-   [x] **1.1 Environment Setup:** Install Python 3.x, pip, and create a virtual environment.
+-   [x] **1.2 IDE Configuration:** Configure VS Code/PyCharm with relevant Python extensions.
+-   [x] **1.3 Django Project Initialization:**
     -   Create Django project: `django-admin startproject reminisce360 .`
     -   Create core app: `python manage.py startapp core`
     -   Configure `settings.py` (database, installed apps).
--   [ ] **1.4 Version Control:** Initialize Git repository and set up `.gitignore`.
+-   [x] **1.4 Version Control:** Initialize Git repository and set up `.gitignore`.
 
 **Milestone 1:** Basic Django project structure is runnable and version-controlled.
 
